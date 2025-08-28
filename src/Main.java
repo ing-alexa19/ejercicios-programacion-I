@@ -19,6 +19,9 @@ public class Main {
         System.out.println("8. GIT SWITCH -C -CREAR Y POSICIONARME SOBRE LA RAMA");
 
 
+        System.out.println(" Caren Alexandra Navarrete Cangrejo");
+        System.out.println("Gachancipa-Cundinamarca");
+        System.out.println("hamster-lulu");
 
 
 
